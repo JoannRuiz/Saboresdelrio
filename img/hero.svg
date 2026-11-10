@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Plato colombiano sobre mesa de madera">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6d9a0"/><stop offset="1" stop-color="#e59a5b"/></linearGradient></defs>
+<rect width="640" height="480" fill="url(#g)"/>
+<circle cx="500" cy="110" r="60" fill="#fff3c9" opacity=".8"/>
+<path d="M0 300 Q160 250 320 290 T640 270 V480 H0Z" fill="#2f5d50" opacity=".5"/>
+<rect y="340" width="640" height="140" fill="#7a4a2f"/>
+<rect y="340" width="640" height="10" fill="#5e3720"/>
+<ellipse cx="320" cy="360" rx="250" ry="62" fill="#00000030"/>
+<ellipse cx="320" cy="345" rx="240" ry="70" fill="#fff"/>
+<ellipse cx="320" cy="342" rx="195" ry="52" fill="#f2e3c6"/>
+<ellipse cx="250" cy="332" rx="55" ry="26" fill="#6b3a24"/>
+<ellipse cx="350" cy="322" rx="62" ry="28" fill="#fbf5e6"/>
+<ellipse cx="430" cy="350" rx="40" ry="16" fill="#c9833a" transform="rotate(-10 430 350)"/>
+<circle cx="310" cy="360" r="24" fill="#f4c542"/><circle cx="310" cy="360" r="10" fill="#fff3b0"/>
+<ellipse cx="225" cy="360" rx="30" ry="13" fill="#e8b64a" transform="rotate(15 225 360)"/>
+<ellipse cx="385" cy="360" rx="26" ry="14" fill="#4f8a3c"/>
+<path d="M290 270 q-10 -30 6 -50 M330 265 q-10 -30 6 -50 M370 270 q-10 -30 6 -50" stroke="#fff" stroke-width="6" stroke-linecap="round" fill="none" opacity=".6"/>
+</svg>

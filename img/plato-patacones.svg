@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Patacones">
+<rect width="400" height="260" fill="#f6e7b4"/>
+<rect y="190" width="400" height="70" fill="#8a5a3b" opacity=".35"/>
+<ellipse cx="200" cy="150" rx="150" ry="62" fill="#00000022"/>
+<ellipse cx="200" cy="140" rx="145" ry="60" fill="#ffffff"/>
+<ellipse cx="200" cy="140" rx="118" ry="46" fill="#f1d77a"/>
+<circle cx="150" cy="135" r="28" fill="#d9a21f"/><circle cx="210" cy="125" r="28" fill="#e2b23a"/><circle cx="260" cy="145" r="26" fill="#d9a21f"/><circle cx="190" cy="160" r="24" fill="#e2b23a"/><ellipse cx="210" cy="125" rx="16" ry="8" fill="#c0392b" transform="rotate(0 210 125)"/><ellipse cx="150" cy="135" rx="14" ry="7" fill="#c0392b" transform="rotate(0 150 135)"/>
+</svg>

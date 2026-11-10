@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Bandeja del río">
+<rect width="400" height="260" fill="#f2d9a8"/>
+<rect y="190" width="400" height="70" fill="#8a5a3b" opacity=".35"/>
+<ellipse cx="200" cy="150" rx="150" ry="62" fill="#00000022"/>
+<ellipse cx="200" cy="140" rx="145" ry="60" fill="#ffffff"/>
+<ellipse cx="200" cy="140" rx="118" ry="46" fill="#e9c98e"/>
+<ellipse cx="150" cy="135" rx="38" ry="22" fill="#6b3a24" transform="rotate(0 150 135)"/><ellipse cx="215" cy="125" rx="42" ry="24" fill="#f7f0e0" transform="rotate(0 215 125)"/><ellipse cx="255" cy="150" rx="30" ry="14" fill="#c9833a" transform="rotate(-10 255 150)"/><circle cx="185" cy="155" r="16" fill="#f4c542"/><circle cx="185" cy="155" r="7" fill="#fff3b0"/><ellipse cx="130" cy="160" rx="22" ry="10" fill="#e8b64a" transform="rotate(15 130 160)"/><ellipse cx="225" cy="160" rx="18" ry="12" fill="#4f8a3c" transform="rotate(0 225 160)"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Natilla">
+<rect width="400" height="260" fill="#e9d5ee"/>
+<rect y="190" width="400" height="70" fill="#8a5a3b" opacity=".35"/>
+<ellipse cx="200" cy="150" rx="150" ry="62" fill="#00000022"/>
+<ellipse cx="200" cy="140" rx="145" ry="60" fill="#ffffff"/>
+<ellipse cx="200" cy="140" rx="118" ry="46" fill="#f3e3b7"/>
+<ellipse cx="200" cy="125" rx="64" ry="34" fill="#f7edc9" transform="rotate(0 200 125)"/><ellipse cx="200" cy="112" rx="38" ry="16" fill="#c98a3a" transform="rotate(0 200 112)"/><ellipse cx="200" cy="108" rx="20" ry="8" fill="#f7edc9" transform="rotate(0 200 108)"/><circle cx="160" cy="150" r="6" fill="#8a5a3b"/><circle cx="240" cy="150" r="6" fill="#8a5a3b"/><circle cx="200" cy="160" r="6" fill="#8a5a3b"/>
+</svg>
